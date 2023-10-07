@@ -1,10 +1,10 @@
-import { SourceStewConfig } from "stew/config";
+import { SourceStewConfig } from "stew/config/mod.ts";
 import {
   getEmailIconSvg,
   getInstagramIconSvg,
   getTwitterIconSvg,
   getWebsiteIconSvg,
-} from "stew/config/helpers";
+} from "stew/config/helpers/mod.ts";
 import { musicDataset } from "./music.dataset.ts";
 
 export default getStewConfig();
