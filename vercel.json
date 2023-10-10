@@ -1,6 +1,6 @@
 {
   "buildCommand": "deno task buildStew",
-  "outputDirectory": "build_pl-archive",
+  "outputDirectory": "build",
   "rewrites": [
     {
       "source": "/",
