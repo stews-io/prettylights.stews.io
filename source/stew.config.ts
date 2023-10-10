@@ -42,7 +42,7 @@ function getStewConfig(): SourceStewConfig {
       stewName: "pl-archive",
       stewTagline: "worldwide official",
       stewMessage: "the time has come for bad things to end...",
-      stewExternalLinks: [
+      stewLinks: [
         {
           linkLabel: "website",
           linkHref: "http://prettylightsmusic.com",
